@@ -3,11 +3,11 @@ class CreateTracks < ActiveRecord::Migration[5.1]
     create_table :tracks do |t|
       t.string :title
       t.integer :artist
-      t.int :album
+      t.integer :album
       t.string :genre
       t.date :year
       t.string :coverurl
-      t.int :plays
+      t.integer :plays
       t.string :videourl
       t.string :trackduration
 

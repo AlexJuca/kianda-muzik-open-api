@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  release: 2017-12-29
+  genre: MyString
+  price: 
+
+two:
+  name: MyString
+  release: 2017-12-29
+  genre: MyString
+  price: 
