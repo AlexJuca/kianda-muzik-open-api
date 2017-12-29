@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  artist: 1
+  album: 
+  genre: MyString
+  year: 2017-12-29
+  coverurl: MyString
+  plays: 
+  videourl: MyString
+  trackduration: MyString
+
+two:
+  title: MyString
+  artist: 1
+  album: 
+  genre: MyString
+  year: 2017-12-29
+  coverurl: MyString
+  plays: 
+  videourl: MyString
+  trackduration: MyString
